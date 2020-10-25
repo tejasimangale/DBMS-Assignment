@@ -45,7 +45,5 @@ if(isset($_POST['update'])){
     }
 
     header("Location: update.php");
-}else{
-    
 }
 ?>
